@@ -34,3 +34,10 @@ My GitHub page is [http://github.com/apromodo](http://github.com/apromodo/).
 
 
 ![The gradient image from Lab 10](images/gradient.png)
+
+<style>
+body {
+  color: white;
+  background-color: black;
+}
+</style>
