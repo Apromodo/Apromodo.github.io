@@ -38,6 +38,6 @@ My GitHub page is [http://github.com/apromodo](http://github.com/apromodo/).
 <style>
 body {
   color: white;
-  background-color: black;
+  background-color: #303030;
 }
 </style>
